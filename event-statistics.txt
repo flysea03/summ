@@ -1,0 +1,11 @@
+Event_type	No_of_events	No_of_Tweets
+
+Finance/Business	104	21,374
+Politics	180	70,138
+Law/Crime	168	51,677
+Disaster	176	43,260
+Technology	77	13,562
+Sports	96	42,581
+Entertainment	62	25,495
+Other	137	36,945
+Total	1000	305,032
